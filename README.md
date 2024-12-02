@@ -1,69 +1,98 @@
-# CampusX-PyTorch
+# PyTorch Hindi Tutorial Series 🔥
 
-## Project Overview
+Welcome to a comprehensive PyTorch tutorial series in Hindi! This course is designed to help you master PyTorch from basics to advanced concepts.
 
-Welcome to the CampusX-PyTorch repository! This project is designed to provide a comprehensive introduction to PyTorch, a popular deep learning framework. The content is presented in Hindi, making it accessible to a wider audience.
+## 📚 Course Contents 
 
-## Key Features
+### Module 1: Foundations & Training
+| 📺 Video | 📝 Title | 🎯 Topics Covered |
+|-------|-------|----------------|
+| 1️⃣ | [Introduction to PyTorch](https://youtu.be/QZsguRbcOBM?si=aPxFfQfwN6hondiT) | • Basic concepts<br>• Framework overview<br>• Setup & installation |
+| 2️⃣ | [Tensors in PyTorch](https://youtu.be/mDsFsnw3SK4?si=EINeR-66hJPBM5LS) | • Tensor operations<br>• Data structures<br>• Basic manipulations |
+| 3️⃣ | [PyTorch Autograd](https://youtu.be/BECZ0UB5AR0?si=fgLpkOoItgI1s8tm) | • Automatic differentiation<br>• Gradient computation<br>• Backpropagation |
+| 4️⃣ | [PyTorch Training Pipeline](https://youtu.be/MKxEbbKpL5Q?si=GOC0-PKdo_bvL0JZ) | • Model training workflow<br>• Pipeline setup<br>• Training best practices |
 
-- **Detailed Tutorials**: Step-by-step tutorials covering various aspects of PyTorch.
-- **Code Examples**: Practical code examples to help you understand and implement PyTorch concepts.
-- **Video Lectures**: Accompanying video lectures in Hindi for a better understanding.
-- **Hands-on Projects**: Real-world projects to apply your PyTorch knowledge.
+## 🔗 Quick Access Links
 
-## Repository Contents
+### 📘 Beginner Track
+- [🎓 Introduction to PyTorch](https://youtu.be/QZsguRbcOBM?si=aPxFfQfwN6hondiT)
+- [💻 Tensors in PyTorch](https://youtu.be/mDsFsnw3SK4?si=EINeR-66hJPBM5LS)
 
-- `Introduction to PyTorch | PyTorch Hindi Playlist Video 1.md`: An in-depth overview of PyTorch, its features, and its evolution.
-- `notebooks/`: Jupyter notebooks with code examples and exercises.
-- `videos/`: Links to video lectures on YouTube.
-- `projects/`: Hands-on projects to practice and apply PyTorch concepts.
+### 🎯 Advanced Track
+- [⚡ PyTorch Autograd](https://youtu.be/BECZ0UB5AR0?si=fgLpkOoItgI1s8tm)
+- [🔄 PyTorch Training Pipeline](https://youtu.be/MKxEbbKpL5Q?si=GOC0-PKdo_bvL0JZ)
 
-## Getting Started
+## 🛣️ Learning Path
 
-### Prerequisites
+```mermaid
+graph TD
+    A[Start Here] --> B[Introduction to PyTorch]
+    B --> C[Tensors in PyTorch]
+    C --> D[PyTorch Autograd]
+    D --> E[Training Pipeline]
+    style A fill:#f9f,stroke:#333
+    style E fill:#bbf,stroke:#333
+```
 
-- Python 3.6 or higher
-- PyTorch 1.7 or higher
-- Jupyter Notebook
+## 📋 Prerequisites
 
-### Installation
+- ✅ Basic Python knowledge
+- ✅ Understanding of mathematics fundamentals
+- ✅ Enthusiasm to learn! 🚀
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Yash-Kavaiya/CampusX-PyTorch.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd CampusX-PyTorch
-   ```
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+---
 
-### Running the Notebooks
+## 📺 Detailed Video Breakdown
 
-1. Start Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Open the desired notebook from the `notebooks/` directory.
+### Video 1: Introduction to PyTorch
+> 🎯 **Learning Goals**
+- Complete introduction to PyTorch framework
+- Installation and setup guide
+- Basic concepts and architecture
 
-## Resources
+### Video 2: Tensors in PyTorch
+> 🎯 **Learning Goals**
+- Understanding tensor operations
+- Working with PyTorch tensors
+- Basic tensor manipulations
 
-- [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
-- [CampusX YouTube Channel](https://www.youtube.com/c/CampusX)
-- [PyTorch Tutorials](https://pytorch.org/tutorials/)
+### Video 3: PyTorch Autograd
+> 🎯 **Learning Goals**
+- Automatic differentiation explained
+- Working with computational graphs
+- Understanding backpropagation
 
-## Contributing
+### Video 4: PyTorch Training Pipeline
+> 🎯 **Learning Goals**
+- Building complete training workflows
+- Understanding training cycles
+- Implementing best practices
+- Model optimization techniques
 
-We welcome contributions to improve the content and add new features. Please feel free to submit a pull request or open an issue.
+---
 
-## License
+## 🌟 Features of This Course
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+| Feature | Description |
+|---------|-------------|
+| 🎥 Video Format | Clear, concise Hindi explanations |
+| 💻 Hands-on | Practical coding examples |
+| 🔄 Progressive | Step-by-step learning approach |
+| 🎯 Focused | Topic-specific deep dives |
 
-## Acknowledgements
+## 🌐 Stay Connected
 
-We would like to thank the PyTorch community and all the contributors who have made this project possible.
+```python
+def stay_updated():
+    """
+    Never miss an update!
+    Subscribe and hit the notification bell 🔔
+    """
+    return "Happy Learning! 🚀"
+```
 
+---
+
+*Happy Learning! Keep exploring PyTorch! 💻*
+
+> 💡 **Pro Tip**: Watch videos in sequence for the best learning experience!
